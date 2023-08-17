@@ -5,7 +5,7 @@ import MyCarousel from './MyCarousel';
 
 const EventsApp = () => {
   return (
-    <div>
+    <div className='event'>
         <div className='events'>
             <div className='line'></div>
         

@@ -89,6 +89,9 @@
       font-size: 18px;
     }
 
+      .event{
+        margin-top: 1.5rem;
+      }
     .eventsContent {
       display: flex;
       justify-content: space-between;
@@ -194,6 +197,8 @@
 
     .playIcon {
       color: white;
+      width: auto;
+      height: auto;
     }
     .video{
       
